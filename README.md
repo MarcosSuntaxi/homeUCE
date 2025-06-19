@@ -6,6 +6,8 @@ Aplicación móvil de sistema académico para la **Universidad Central del Ecuad
 
 Esta app permite a los estudiantes consultar su información académica, rendimiento, asignaturas, calendario, anuncios y acceder rápidamente a servicios institucionales. Presenta una interfaz moderna, intuitiva y adaptada a dispositivos móviles.
 
+![alt text](HOMEuce.jpg)
+
 ## Características principales
 
 - **Panel de bienvenida** con búsqueda y datos del semestre actual.
